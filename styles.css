@@ -1,0 +1,43 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 224, 224);
+}
+
+header {
+    color: #F7F7FF;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #333;
+    color: #FFF;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #FFF;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Specific Styles for index.html */
+header.index-header {
+    background-color: #1a34df;
+}
+
+/* Specific Styles for about.html */
+header.about-header {
+    background-color:#1a34df ; 
+}
+header.resume-header{
+    background-color: #1a34df;
+}
